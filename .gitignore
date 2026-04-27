@@ -1,0 +1,9 @@
+customer_support_data.csv
+machine_sensor_data.csv
+retail_sales_data.csv
+mlruns
+mlflow.db
+model.pkl
+.env
+.idea
+__pycache__
